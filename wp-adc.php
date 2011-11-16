@@ -4,7 +4,7 @@ Plugin Name: Author Default Category
 Plugin URI: http://github.com/z720/wp-adc
 Description: This plugins allow any author to select its own default category.
 Author: Sebastien Erard
-Version: 1.0
+Version: 1.0-beta
 Author URI: http://z720.net
 */
 
